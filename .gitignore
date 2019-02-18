@@ -329,3 +329,8 @@ ASALocalRun/
 .mfractor/
 
 .DS_Store
+
+*.glb
+*.gltf
+*.bin
+*.g.cs
